@@ -1,0 +1,12 @@
+[
+  { "slug": "criativo-loja-x", "uid": "TESTE", "title": "Criativo Loja X", "category": "Anúncio", "duration": 32, "thumbTime": 2 },
+  { "slug": "reels-cafe-centro", "uid": "TESTE", "title": "Reels do Café do Centro", "category": "Reels", "duration": 45, "thumbTime": 2 },
+  { "slug": "lancamento-tenis", "uid": "TESTE", "title": "Lançamento de tênis de corrida", "category": "Anúncio", "duration": 28, "thumbTime": 2 },
+  { "slug": "institucional-clinica", "uid": "TESTE", "title": "Institucional clínica odontológica", "category": "Institucional", "duration": 74, "thumbTime": 2 },
+  { "slug": "teaser-casamento", "uid": "TESTE", "title": "Teaser de casamento", "category": "Evento", "duration": 58, "thumbTime": 2 },
+  { "slug": "bastidores-marca", "uid": "TESTE", "title": "Bastidores de marca", "category": "Reels", "duration": 41, "thumbTime": 2 },
+  { "slug": "promo-academia", "uid": "TESTE", "title": "Promo de academia", "category": "Anúncio", "duration": 22, "thumbTime": 2 },
+  { "slug": "cardapio-restaurante", "uid": "TESTE", "title": "Cardápio novo do restaurante", "category": "Reels", "duration": 36, "thumbTime": 2 },
+  { "slug": "tour-apartamento", "uid": "TESTE", "title": "Tour de apartamento decorado", "category": "Institucional", "duration": 63, "thumbTime": 2 },
+  { "slug": "aftermovie-show", "uid": "TESTE", "title": "Aftermovie de show", "category": "Evento", "duration": 90, "thumbTime": 2 }
+]

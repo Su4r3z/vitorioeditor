@@ -1,0 +1,10 @@
+# Modelo. O build.mjs preenche {{STREAM}} e {{STYLE_HASH}} e grava o resultado em dist/_headers.
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://static.cloudflareinsights.com; img-src 'self'{{STREAM}}; media-src 'self' blob:{{STREAM}}; connect-src 'self'{{STREAM}} https://cloudflareinsights.com; worker-src 'self' blob:; style-src 'self' '{{STYLE_HASH}}'; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'none'
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  X-Frame-Options: DENY
+
+/capas-teste/*
+  Cache-Control: public, max-age=86400

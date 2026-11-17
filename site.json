@@ -1,0 +1,16 @@
+{
+  "siteUrl": "https://vitorioeditor.pages.dev",
+  "name": "Vitorio Trevizan",
+  "role": "Editor de Vídeo",
+  "pitch": "Edição de criativos e Reels para marcas que vendem pelo celular.",
+  "about": "Edito vídeos curtos para marcas, agências e criadores. Ritmo, legenda e cor pensados para quem assiste no celular, sem som e com o dedo pronto para pular.",
+  "services": [
+    { "name": "Criativos para anúncio", "detail": "Meta e TikTok" },
+    { "name": "Reels e TikTok", "detail": "pacotes mensais" },
+    { "name": "Roteirização de conteúdo", "detail": "ideia, gancho e roteiro" },
+    { "name": "Vídeo institucional", "detail": "até 2 min" }
+  ],
+  "instagram": "seuinstagram",
+  "whatsapp": "",
+  "streamCode": ""
+}
